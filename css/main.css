@@ -497,6 +497,7 @@
                         .section_3 h2,
                         .section_4 h2 {
                             font-size: 5vw;
+                            font-weight: 600;
                         }
                         .section_1 a {
                             position: relative;
