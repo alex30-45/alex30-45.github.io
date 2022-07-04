@@ -206,6 +206,10 @@ header .language a {
     background-color: rgb(255, 255, 255);
 }
 
+.section_2 .price {
+    display: grid;
+    margin-top: 3vw;
+}
 
 .section_2 .t1_1 {
     grid-row: 1;
