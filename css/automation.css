@@ -197,6 +197,7 @@ header .language a {
     border: solid rgb(255, 255, 255) 1px
 }
 
+
 .section_2 h6 {
     padding: 0.5vw;
     font-family: "helios-cond", Arial, Helvetica, sans-serif;
@@ -204,6 +205,16 @@ header .language a {
     font-weight: 600;
     color: rgb(0, 0, 0);
     background-color: rgb(255, 255, 255);
+}
+
+.section_2 p {
+    padding: 0.5vw;
+    font-family: "helios-cond", Arial, Helvetica, sans-serif;
+    font-size: 1.2vw;
+    font-weight: 300;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    padding-bottom: 1vw;
 }
 
 .section_2 .price {
