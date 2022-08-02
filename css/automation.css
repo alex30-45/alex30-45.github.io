@@ -210,6 +210,37 @@ header .language a {
     margin-right: 4vw;
 }
 
+.section_2 .pr_2 {
+    width: 18.5vw;
+    margin-left: 4vw;
+    margin-right: 4vw;
+}
+
+.section_2 .pr_3 {
+    width: 18.2vw;
+    margin-left: 4vw;
+    margin-right: 4vw;
+}
+
+.section_2 .pr_4 {
+    width: 18.2vw;
+    margin-top: 2vw;
+    margin-left: 4vw;
+    margin-right: 4vw;
+}
+
+.section_2 .pr_5 {
+    width: 30vw;
+    margin-left: 4vw;
+    margin-right: 4vw;
+}
+
+.section_2 .pr_6 {
+    width: 25vw;
+    margin-left: 4vw;
+    margin-right: 4vw;
+}
+
 .section_2 h3 {
     background-color: rgb(255, 255, 255);
     margin: auto;
